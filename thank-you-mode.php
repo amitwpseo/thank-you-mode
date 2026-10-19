@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name:       Thank You Mode
+ * Plugin URI:        https://github.com/amitwpseo/thank-you-mode
  * Description:       One-click "Thank You / Stay Tuned" landing page for any WordPress site. Choose from 6 premium designs, customise colors, logo, text and background, schedule it, and hide the rest of the site from the public while you stay logged in. Perfect after events, launches, sales and seasonal closures. Nothing is deleted - deactivate to restore the site instantly.
  * Version:           2.0.0
  * Requires at least: 5.8
